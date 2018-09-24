@@ -1,0 +1,6 @@
+framework module Pods_BackendTalkTemplate {
+  umbrella header "Pods-BackendTalkTemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}
